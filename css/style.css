@@ -1073,6 +1073,11 @@ html[xmlns] .slides {
 	padding: 150px 0px 100px;
 }
 
+#giveaway {
+	background:url(../images/parallax/christmas.jpg) no-repeat;
+	padding: 150px 0px 100px;
+}
+
 .facts-box {
 	text-align:center;
 }
